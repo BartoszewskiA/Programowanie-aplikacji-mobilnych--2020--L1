@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atlas grzybów</string>
+    <string name="zrodlo">Źródło: Wiklipedia.pl</string>
+    <string name="btton_01">Wstecz</string>
+    <string name="btton_02">Naprzód</string>
+    <string-array name="names">
+        <item>Borowik szlachetny</item>
+        <item>Podgrzybek</item>
+        <item>Muchomor czerwony</item>
+        <item>Kania</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>gatunek grzybów z rodziny borowikowatych, potocznie nazywany prawdziwkiem.</item>
+        <item>gatunek grzybów z rodziny borowikowatych</item>
+        <item>gatunek grzybów należący do rodziny muchomorowatych - NIEJADALNY</item>
+        <item>gatunek grzybów należący do rodziny pieczarkowatych</item>
+    </string-array>
+</resources>

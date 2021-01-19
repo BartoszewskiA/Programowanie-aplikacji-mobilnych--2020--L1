@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mushroom Atlas</string>
+
+    <string name="zrodlo">Source: wikipedia.org</string>
+    <string name="btton_01">Back</string>
+    <string name="btton_02">Forward</string>
+
+    <string-array name = "names">
+        <item> Boletus edulis </item>
+        <item> Boletus </item>
+        <item> Red fly agaric </item>
+        <item> Parasol mushroom </item>
+    </string-array>
+
+    <string-array name = "descriptions">
+        <item> a species of mushrooms from the boletus family, commonly known as boletus. </item>
+        <item> species of mushrooms from the boletus family </item>
+        <item> species of fungi belonging to the toadstool family - INEADABLE </item>
+        <item> a species of fungi belonging to the mushroom family </item>
+    </string-array>
+</resources>
