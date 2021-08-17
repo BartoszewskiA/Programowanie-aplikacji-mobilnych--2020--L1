@@ -2,6 +2,7 @@ package com.example.gestylicznik;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -19,6 +20,8 @@ public class MainActivity extends AppCompatActivity implements GestureDetector.O
         setContentView(R.layout.activity_main);
         poleLicznik = findViewById(R.id.textView01);
         detektorGestow = new GestureDetector(this, this);
+
+        poleLicznik.setTextColor(Color.argb(255,255,0,0));
     }
 
     @Override
